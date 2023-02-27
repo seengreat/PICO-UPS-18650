@@ -1,0 +1,38 @@
+The system is: Windows - 10.0.19044 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/visual studio/ide/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.29.30146 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.29.30146.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/lyh/products/PICO-UPS-18650/demo codes/c/INA219/build/pioasm/CMakeFiles/3.20.21032501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/lyh/products/PICO-UPS-18650/demo codes/c/INA219/build/pioasm/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b646f\fast && 	"D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_b646f.dir\build.make /nologo -L                  CMakeFiles\cmTC_b646f.dir\build
+Building CXX object CMakeFiles/cmTC_b646f.dir/CMakeCXXCompilerABI.cpp.obj
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b646f.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir="E:\lyh\products\PICO-UPS-18650\demo codes\c\INA219\build\pioasm\CMakeFiles\CMakeTmp" --filter-prefix="注意: 包含文件:  " -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe" @C:\Users\Admin\AppData\Local\Temp\nm5FE2.tmp
+CMakeCXXCompilerABI.cpp
+?鈷? 鍖呭惈鏂囦欢:  D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking CXX executable cmTC_b646f.exe
+	"D:\visual studio\ide\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b646f.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x86\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x86\mt.exe" --manifests -- "D:\visual studio\ide\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe" /nologo @CMakeFiles\cmTC_b646f.dir\objects1.rsp @C:\Users\Admin\AppData\Local\Temp\nm6012.tmp
+
+
+
